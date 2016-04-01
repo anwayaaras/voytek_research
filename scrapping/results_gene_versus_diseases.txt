@@ -1,0 +1,109 @@
+1	alpha-1-B glycoprotein	{}
+2	alpha-2-macroglobulin	{'inhibitory': 21}
+387755	inscuteable homolog (Drosophila)	{}
+131076	coiled-coil domain containing 58	{}
+9	N-acetyltransferase 1 (arylamine N-acetyltransferase)	{}
+10	N-acetyltransferase 2 (arylamine N-acetyltransferase)	{}
+12	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3	{}
+13	arylacetamide deacetylase	{}
+14	angio-associated, migratory cell protein	{}
+15	aralkylamine N-acetyltransferase	{'sleep': 6}
+16	alanyl-tRNA synthetase	{}
+18	4-aminobutyrate aminotransferase	{'inhibitory': 3}
+163859	SDE2 telomere maintenance homolog (S. pombe)	{}
+20	ATP-binding cassette, sub-family A (ABC1), member 2	{}
+21	ATP-binding cassette, sub-family A (ABC1), member 3	{}
+22	ATP-binding cassette, sub-family B (MDR/TAP), member 7	{}
+23	ATP-binding cassette, sub-family F (GCN20), member 1	{}
+131096	potassium channel, voltage gated eag related subfamily H, member 8	{}
+25	ABL proto-oncogene 1, non-receptor tyrosine kinase	{'inhibitory': 236}
+26	amine oxidase, copper containing 1	{'inhibitory': 113}
+27	ABL proto-oncogene 2, non-receptor tyrosine kinase	{'inhibitory': 228}
+28	ABO blood group (transferase A, alpha 1-3-N-acetylgalactosaminyltransferase; transferase B, alpha 1-3-galactosyltransferase)	{}
+29	active BCR-related	{}
+30	acetyl-CoA acyltransferase 1	{}
+31	acetyl-CoA carboxylase alpha	{}
+32	acetyl-CoA carboxylase beta	{}
+33	acyl-CoA dehydrogenase, long chain	{'learning': 86, 'memory': 86}
+34	acyl-CoA dehydrogenase, C-4 to C-12 straight chain	{}
+35	acyl-CoA dehydrogenase, C-2 to C-3 short chain	{}
+36	acyl-CoA dehydrogenase, short/branched chain	{}
+37	acyl-CoA dehydrogenase, very long chain	{'learning': 62, 'memory': 62}
+38	acetyl-CoA acetyltransferase 1	{'sleep': 280}
+39	acetyl-CoA acetyltransferase 2	{'sleep': 276}
+40	acid sensing (proton gated) ion channel 2	{'schizophrenia': 152, 'epilepsy': 456, 'learning': 152, 'depression': 152, 'memory': 152}
+41	acid sensing (proton gated) ion channel 1	{'schizophrenia': 498, 'epilepsy': 498, 'learning': 166, 'depression': 166, 'memory': 166}
+163882	consortin, connexin sorting protein	{}
+43	acetylcholinesterase (Yt blood group)	{}
+22915	multimerin 1	{}
+131118	DnaJ (Hsp40) homolog, subfamily C, member 19	{}
+47	ATP citrate lyase	{}
+48	aconitase 1, soluble	{}
+49	acrosin	{}
+50	aconitase 2, mitochondrial	{}
+51	acyl-CoA oxidase 1, palmitoyl	{}
+52	acid phosphatase 1, soluble	{'inhibitory': 6402, 'learning': 2328}
+53	acid phosphatase 2, lysosomal	{'inhibitory': 364, 'learning': 728, 'memory': 728}
+54	acid phosphatase 5, tartrate resistant	{'schizophrenia': 36}
+55	acid phosphatase, prostate	{'inhibitory': 3663, 'learning': 666}
+56	acrosomal vesicle protein 1	{}
+58	actin, alpha 1, skeletal muscle	{'epilepsy': 879, 'sleep': 879, 'inhibitory': 10548, 'learning': 5274, 'memory': 2637}
+59	actin, alpha 2, smooth muscle, aorta	{'epilepsy': 304, 'inhibitory': 912}
+60	actin, beta	{'inhibitory': 464, 'learning': 232}
+55064	spermatogenesis associated 6-like	{}
+70	actin, alpha, cardiac muscle 1	{'inhibitory': 11472, 'epilepsy': 1912, 'sleep': 956, 'learning': 9560, 'memory': 956, 'depression': 956}
+71	actin gamma 1	{'learning': 6462, 'schizophrenia': 718, 'inhibitory': 4308, 'depression': 718, 'memory': 2154}
+72	actin, gamma 2, smooth muscle, enteric	{'epilepsy': 211, 'inhibitory': 422, 'learning': 422}
+27319	basic helix-loop-helix family, member e22	{}
+131149	otolin 1	{}
+81	actinin, alpha 4	{}
+56957	OTU deubiquitinase 7B	{}
+86	actin-like 6A	{}
+87	actinin, alpha 1	{'inhibitory': 155}
+88	actinin, alpha 2	{}
+89	actinin, alpha 3 (gene/pseudogene)	{}
+90	activin A receptor, type I	{}
+91	activin A receptor, type IB	{}
+92	activin A receptor, type IIA	{}
+163933	family with sequence similarity 43, member B	{}
+94	activin A receptor type II-like 1	{}
+95	aminoacylase 1	{}
+97	acylphosphatase 1, erythrocyte (common) type	{}
+98	acylphosphatase 2, muscle type	{}
+100	adenosine deaminase	{}
+101	ADAM metallopeptidase domain 8	{}
+102	ADAM metallopeptidase domain 10	{}
+103	adenosine deaminase, RNA-specific	{}
+104	adenosine deaminase, RNA-specific, B1	{}
+131177	family with sequence similarity 3, member D	{}
+391059	ferric-chelate reductase 1	{}
+107	adenylate cyclase 1 (brain)	{'anxiety': 566, 'inhibitory': 2547, 'schizophrenia': 566, 'learning': 1415, 'memory': 1415, 'depression': 283}
+108	adenylate cyclase 2 (brain)	{'learning': 888, 'anxiety': 222, 'inhibitory': 1110, 'depression': 222, 'memory': 1110}
+109	adenylate cyclase 3	{'anxiety': 107, 'inhibitory': 428, 'learning': 321, 'memory': 428}
+111	adenylate cyclase 5	{'anxiety': 111, 'inhibitory': 333, 'learning': 444, 'memory': 555}
+112	adenylate cyclase 6	{'inhibitory': 162, 'learning': 324, 'memory': 243}
+113	adenylate cyclase 7	{'inhibitory': 33, 'learning': 66, 'memory': 66}
+114	adenylate cyclase 8 (brain)	{'inhibitory': 100, 'anxiety': 50, 'learning': 50, 'depression': 50, 'memory': 150}
+19	ATP-binding cassette, sub-family A (ABC1), member 1	{}
+116	adenylate cyclase activating polypeptide 1 (pituitary)	{'epilepsy': 238, 'sleep': 238, 'inhibitory': 714, 'learning': 238, 'memory': 238}
+117	adenylate cyclase activating polypeptide 1 (pituitary) receptor type I	{'inhibitory': 1146, 'epilepsy': 382, 'sleep': 382, 'learning': 764, 'memory': 1528, 'depression': 764}
+118	adducin 1 (alpha)	{'sleep': 75, 'inhibitory': 75, 'learning': 150}
+119	adducin 2 (beta)	{'sleep': 64, 'inhibitory': 64, 'learning': 128}
+120	adducin 3 (gamma)	{'learning': 70}
+157777	minichromosome maintenance domain containing 2	{}
+123	perilipin 2	{}
+124	alcohol dehydrogenase 1A (class I), alpha polypeptide	{}
+125	alcohol dehydrogenase 1B (class I), beta polypeptide	{}
+126	alcohol dehydrogenase 1C (class I), gamma polypeptide	{}
+127	alcohol dehydrogenase 4 (class II), pi polypeptide	{}
+128	alcohol dehydrogenase 5 (class III), chi polypeptide	{}
+130	alcohol dehydrogenase 6 (class V)	{}
+131	alcohol dehydrogenase 7 (class IV), mu or sigma polypeptide	{}
+196740	V-set and transmembrane domain containing 4	{'inhibitory': 34}
+133	adrenomedullin	{}
+134	adenosine A1 receptor	{'schizophrenia': 194, 'inhibitory': 1552, 'depression': 194, 'memory': 582}
+196743	polyamine oxidase (exo-N4-amino)	{}
+136	adenosine A2b receptor	{}
+152940	chromosome 4 open reading frame 45	{}
+64377	carbohydrate (N-acetylgalactosamine 4-0) sulfotransferase 8	{}
+140	adenosine A3 receptor	{'memory': 90}
